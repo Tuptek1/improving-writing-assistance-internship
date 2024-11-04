@@ -11,3 +11,5 @@ pip install levenshtein
 ```
 
 Then run the main.py file and the results will be generated in your terminal
+
+You can modify the dicts in the misspelled_dicts.py to add new misspelled words and sentences
